@@ -6,9 +6,8 @@ Pokedevs é um projeto criativo que combina o universo Pokémon com o mundo dos 
 Pokedevs is a creative project that combines the Pokémon universe with the world of developers. Each Pokedev represents a Pokémon with programming and software development skills. By clicking on a button corresponding to each Pokedev, the user can see a unique description, detailing their specialties and role in the development team.
 
 ## ⚙ | Features
-- Interface interativa com botões para cada Pokedev.
-- Exibição de informações exclusivas sobre cada personagem.
-- Design temático baseado no universo Pokémon, com uma pegada de desenvolvimento.
+- Interface interativa com botões para cada Pokedev. / Interactive interface with buttons for each Pokedev.
+- Exibição de informações exclusivas sobre cada personagem. / Displaying unique information about each character.
 
 ## 📚 | Stack
 <div align="left">
@@ -54,8 +53,9 @@ Pokedevs is a creative project that combines the Pokémon universe with the worl
   </div>
 
 ## 🌎 | Website
-https://humphreysjulio.github.io/projeto-pokedevs/
+Visite o meu site <a href="https://humphreysjulio.github.io/projeto-pokedevs/" target="_blank">aqui</a>
 
+Visit my website <a href="https://humphreysjulio.github.io/projeto-pokedevs/" target="_blank">here</a>
 ## 👨‍💻 | Dev
 - Julio César Humphreys Reis
 
