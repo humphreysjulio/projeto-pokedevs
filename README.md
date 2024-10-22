@@ -32,27 +32,26 @@ Pokedevs is a creative project that combines the Pokémon universe with the worl
 **__CSS Scan__* is a handy tool that makes it easy to inspect and copy CSS styles directly from a web page. I used this tool specifically to create the box-shadow in my project, quickly adjusting the shadow parameters until I found the ideal result.
 
 ## 🖥 | Previews
-- Website
-  
-  <div style="text-align: center;" align="center">
-  <img src="./previews/preview-1.png" width="45%"/>
-  <img src="./previews/preview-2.png" width="45%"/>
-  <img src="./previews/preview-3.png" width="45%"/>
-  <img src="./previews/preview-4.png" width="45%"/>
-  <img src="./previews/preview-5.png" width="45%"/>
-  <img src="./previews/preview-6.png" width="45%"/>
-</div>
-
-- Mobile
 
   <div style="text-align: center;" align="center">
-  <img src="./previews/preview-mobile-1.png" width="25%"/>
-  <img src="./previews/preview-mobile-2.png" width="25%"/>
-  <img src="./previews/preview-mobile-3.png" width="25%"/>
-  <img src="./previews/preview-mobile-4.png" width="25%"/>
-  <img src="./previews/preview-mobile-5.png" width="25%"/>
-  <img src="./previews/preview-mobile-6.png" width="25%"/>
-</div>
+    <h3>Website</h3>
+    <img src="./previews/preview-1.png" width="45%"/>
+    <img src="./previews/preview-2.png" width="45%"/>
+    <img src="./previews/preview-3.png" width="45%"/>
+    <img src="./previews/preview-4.png" width="45%"/>
+    <img src="./previews/preview-5.png" width="45%"/>
+    <img src="./previews/preview-6.png" width="45%"/>
+  </div>
+
+  <div style="text-align: center;" align="center">
+    <h3>Mobile</h3>
+    <img src="./previews/preview-mobile-1.png" width="25%"/>
+    <img src="./previews/preview-mobile-2.png" width="25%"/>
+    <img src="./previews/preview-mobile-3.png" width="25%"/>
+    <img src="./previews/preview-mobile-4.png" width="25%"/>
+    <img src="./previews/preview-mobile-5.png" width="25%"/>
+    <img src="./previews/preview-mobile-6.png" width="25%"/>
+  </div>
 
 ## 🌎 | Website
 https://humphreysjulio.github.io/projeto-pokedevs/
