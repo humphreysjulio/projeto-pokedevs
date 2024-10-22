@@ -35,23 +35,23 @@ Pokedevs is a creative project that combines the Pokémon universe with the worl
 - Website
   
   <div style="text-align: center;" align="center">
-  <img src="./previews/preview-1.png" width="49%"/>
-  <img src="./previews/preview-2.png" width="49%"/>
-  <img src="./previews/preview-3.png" width="49%"/>
-  <img src="./previews/preview-4.png" width="49%"/>
-  <img src="./previews/preview-5.png" width="49%"/>
-  <img src="./previews/preview-6.png" width="49%"/>
+  <img src="./previews/preview-1.png" width="45%"/>
+  <img src="./previews/preview-2.png" width="45%"/>
+  <img src="./previews/preview-3.png" width="45%"/>
+  <img src="./previews/preview-4.png" width="45%"/>
+  <img src="./previews/preview-5.png" width="45%"/>
+  <img src="./previews/preview-6.png" width="45%"/>
 </div>
 
 - Mobile
 
   <div style="text-align: center;" align="center">
-  <img src="./previews/preview-mobile-1.png" width="32%"/>
-  <img src="./previews/preview-mobile-2.png" width="32%"/>
-  <img src="./previews/preview-mobile-3.png" width="32%"/>
-  <img src="./previews/preview-mobile-4.png" width="32%"/>
-  <img src="./previews/preview-mobile-5.png" width="32%"/>
-  <img src="./previews/preview-mobile-6.png" width="32%"/>
+  <img src="./previews/preview-mobile-1.png" width="25%"/>
+  <img src="./previews/preview-mobile-2.png" width="25%"/>
+  <img src="./previews/preview-mobile-3.png" width="25%"/>
+  <img src="./previews/preview-mobile-4.png" width="25%"/>
+  <img src="./previews/preview-mobile-5.png" width="25%"/>
+  <img src="./previews/preview-mobile-6.png" width="25%"/>
 </div>
 
 ## 🌎 | Website
