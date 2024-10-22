@@ -20,7 +20,12 @@ Pokedevs is a creative project that combines the Pokémon universe with the worl
 ## 🛠 | Tools
 - Visual Studio Code
 - Google Fonts
+- Responsive Viewer*
 - CSS Scan*
+
+**__Responsive Viewer__* é uma extensão web para facilitar a visualização e teste de sites responsivos. Permite exibir o layout em diferentes resoluções de tela simultaneamente, agilizando o processo de adaptação de interfaces para dispositivos variados.
+
+**__Responsive Viewer__* is a web extension that makes it easier to view and test responsive websites. It allows you to display the layout in different screen resolutions simultaneously, speeding up the process of adapting interfaces to different devices.
 
 **__CSS Scan__* é uma ferramenta prática que facilita a inspeção e cópia de estilos CSS diretamente de uma página da web. Eu utilizei essa ferramenta especificamente para criar o box-shadow no meu projeto, ajustando de forma rápida os parâmetros de sombra até encontrar o resultado ideal.
 
@@ -28,8 +33,26 @@ Pokedevs is a creative project that combines the Pokémon universe with the worl
 
 ## 🖥 | Previews
 - Website
+  
+  <div style="text-align: center;" align="center">
+  <img src="./previews/preview-1.png" width="49%"/>
+  <img src="./previews/preview-2.png" width="49%"/>
+  <img src="./previews/preview-3.png" width="49%"/>
+  <img src="./previews/preview-4.png" width="49%"/>
+  <img src="./previews/preview-5.png" width="49%"/>
+  <img src="./previews/preview-6.png" width="49%"/>
+</div>
 
 - Mobile
+
+  <div style="text-align: center;" align="center">
+  <img src="./previews/preview-mobile-1.png" width="32%"/>
+  <img src="./previews/preview-mobile-2.png" width="32%"/>
+  <img src="./previews/preview-mobile-3.png" width="32%"/>
+  <img src="./previews/preview-mobile-4.png" width="32%"/>
+  <img src="./previews/preview-mobile-5.png" width="32%"/>
+  <img src="./previews/preview-mobile-6.png" width="32%"/>
+</div>
 
 ## 🌎 | Website
 https://humphreysjulio.github.io/projeto-pokedevs/
